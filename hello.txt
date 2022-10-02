@@ -1,0 +1,5 @@
+Hello DevOps
+Есть несколько горячих клавиш:
+1. git clone + ссылка на github
+2. git pull
+3. git push
